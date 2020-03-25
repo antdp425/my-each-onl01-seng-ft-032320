@@ -10,6 +10,6 @@ def my_each (array)# put argument(s) here
 end
 
 
-my_each("Test") do |name|
-  name
-end
+# my_each("Test") do |name|
+#   name
+# end
